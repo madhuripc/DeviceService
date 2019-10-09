@@ -25,6 +25,7 @@ import java.util.List;
  * // To add a device to suspect list
  * suspectStore.addSuspectDevice("DEVICE_101");
  *
+ *
  */
 public final class SuspectDeviceStore implements Serializable {
     /** These could be externalized via some flag to configure the store */
